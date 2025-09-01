@@ -1,1 +1,1 @@
-print Wassup Buddy!! v.N.1")
+print ("Wassup Buddy!! v.N.1")
